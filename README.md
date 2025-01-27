@@ -1,14 +1,13 @@
-Election and Financial Analysis
+# Python-Challenge
 
-In this project, I analyzed the results of an election and the financial information of a bank. For the election database, I looped through the data to produce the total votes, percentage of votes won by the
-candidates, and the winner of the election. For the banking analysis, I looped through the data to produce total months, total amount of money, average change in capital, greatest increase in profit, and the
-greatest decrease in profit. 
+PyBank: A python script that analyzes the financial record of a company. In this script I analyzed the following values: total number of months in the dataset, net total amount of profit/loss over the entire period, changes in profit/loss over entire period as well as the averages of those changes, greatest increase in profit along with the corresponing date the greatest increase in proit occured, and the greatest decrease in profit along with the corresponding date the greatest decrease in profit occured.
 
-To produce this data:
-1: I imported cvs and os to get the right libraries.
-2: I used for loops to analyze the database.
-3: I used print to create a table that shows the results.
+The code and results I used for this section can be found in the PyBank folder located in the starter_code folder.
 
-This project is important because it shows how to use python to analyze large databases.
+PyPoll: A python script that analyzes the results of an election. The script I created analyzes the following values: total number of votes, list of candidates in election, percentage and total number of votes each candidate won, the winner of the election.
 
-My tutor, Fred Logan, helped me with contributing to this project.
+The code and results used for this section can be found in the PyPoll folder located in the starter_code folder.
+
+
+
+
